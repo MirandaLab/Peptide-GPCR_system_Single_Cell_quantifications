@@ -13,3 +13,5 @@ Gabriel Mendoza-Rojas1, Philip Nakonz1, Min Lu2, Johannes Postma1, Naomi Shtakse
 4 NC State University, Plant and Microbial Biology, Raleigh, USA
 
 Correspondence to: altegoer@hhu.de
+
+Correspondence for image analysis: oargell@ncsu.edu
