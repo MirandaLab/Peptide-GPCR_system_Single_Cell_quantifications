@@ -2,7 +2,7 @@ Code used in the image analysis from microfludics devices from:
 
 **A co-evolved peptide-GPCR system senses host entry to drive fungal infection**
 
-Gabriel Mendoza-Rojas1, Philip Nakonz1, Min Lu2, Johannes Postma1, Naomi Shtakser1, Theresa Heidrich1, XX Manav Patel4, Orlando Arguello-Miranda4, Sonja Billerbeck2,3 and Florian Altegoer1
+Gabriel Mendoza-Rojas1, Philip Nakonz1, Min Lu2, Johannes Postma1, Naomi Shtakser1, Theresa Heidrich1, Manav Patel4, Orlando Arguello-Miranda4, Sonja Billerbeck2,3 and Florian Altegoer1
 
 1 Heinrich-Heine University Düsseldorf, Institute of Microbiology, Cluster of Excellence on Plant Sciences, Düsseldorf, Germany
 
