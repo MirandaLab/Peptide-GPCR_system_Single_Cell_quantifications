@@ -46,7 +46,7 @@ end
 
 
 % Run the Python script for RIFE
-% Use yeast vision to interpolate the time series and track teh cells: 
+% Use yeast vision to interpolate the time series and track the cells: 
 %% https://pypi.org/project/yeastvision/
 %%
 
@@ -674,5 +674,6 @@ saveas(f1,titel1,'pdf')
 
 end
     
+
 
 
